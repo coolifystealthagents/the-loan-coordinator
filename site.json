@@ -1,0 +1,765 @@
+{
+  "dir": "the-loan-coordinator",
+  "domain": "theloancoordinator.com",
+  "brand": "The Loan Coordinator",
+  "short": "Loan Coordinator",
+  "variant": "ledger",
+  "colors": [
+    "#08182d",
+    "#f4eddd",
+    "#1f55d5",
+    "#c79b45"
+  ],
+  "fontDisplay": "Georgia",
+  "fontBody": "Arial",
+  "hero": "exec-0c5632a7-9aa6-49bc-aaf5-719279fedc01.png",
+  "mark": "folder",
+  "eyebrow": "Loan workflow command center",
+  "headline": "Keep every loan moving with an organized coordination team.",
+  "intro": "Remote loan coordination support for document follow-up, milestone tracking, borrower communication, and file readiness. Your licensed team keeps decisions and regulated work. We keep the workflow visible, orderly, and moving.",
+  "audience": "mortgage brokers, lending teams, and loan officers",
+  "noun": "loan",
+  "plural": "loan files",
+  "disclaimer": "Support staff handle administrative coordination. They do not originate loans, make credit decisions, provide lending advice, or perform work that requires a license.",
+  "services": [
+    [
+      "Loan pipeline coordination",
+      "Maintain milestone views, owner assignments, and next-action queues for active files."
+    ],
+    [
+      "Document request support",
+      "Prepare clear checklists, follow up on missing items, and organize received documents."
+    ],
+    [
+      "Borrower communication support",
+      "Send approved updates, schedule touchpoints, and route questions to the right licensed team member."
+    ],
+    [
+      "Processor workflow support",
+      "Keep handoffs, conditions, and internal follow-ups visible without making lending decisions."
+    ],
+    [
+      "Closing coordination support",
+      "Track approved closing tasks, appointment details, and outstanding administrative items."
+    ],
+    [
+      "Post-close file support",
+      "Organize completion records, status notes, and approved archival checklists."
+    ],
+    [
+      "Partner update support",
+      "Coordinate approved status updates with title, insurance, and real estate partners."
+    ]
+  ],
+  "blog": [
+    [
+      "loan-pipeline-coordination",
+      "Loan pipeline coordination: a practical operating guide",
+      "Workflow",
+      "A practical system for making every owner, milestone, and next action visible across an active loan pipeline."
+    ],
+    [
+      "loan-document-follow-up",
+      "Loan document follow-up without borrower confusion",
+      "Borrower experience",
+      "How to create a clear document request rhythm that reduces duplicate messages and unclear handoffs."
+    ],
+    [
+      "fractional-operations-manager-vs-loan-coordinator-va",
+      "Fractional operations manager vs loan coordinator VA",
+      "Role comparisons",
+      "A grounded comparison of leadership coverage and hands-on loan workflow support."
+    ],
+    [
+      "mortgage-milestone-tracking",
+      "Mortgage milestone tracking for busy lending teams",
+      "Operations",
+      "A milestone framework for consistent internal reviews, borrower updates, and closing preparation."
+    ],
+    [
+      "loan-file-handoff-checklist",
+      "Loan file handoff checklist for cleaner coordination",
+      "Quality control",
+      "A structured handoff checklist that keeps context attached as a file moves between owners."
+    ]
+  ],
+  "clusters": {
+    "Pipeline visibility": [
+      "pipeline stage coverage",
+      "milestone exception review",
+      "daily loan queue design",
+      "pipeline owner map",
+      "stalled file signals"
+    ],
+    "Document workflows": [
+      "document request sequence",
+      "condition tracking map",
+      "borrower document clarity",
+      "file naming controls",
+      "document completion review"
+    ],
+    "Borrower coordination": [
+      "borrower update cadence",
+      "approved message routing",
+      "appointment coordination",
+      "escalation path design",
+      "communication log quality"
+    ],
+    "Closing readiness": [
+      "closing task map",
+      "partner handoff review",
+      "clear to close coordination",
+      "post close completion",
+      "closing status controls"
+    ]
+  },
+  "source": "https://www.consumerfinance.gov/consumer-tools/mortgages/",
+  "bookingUrl": "https://go.oncehub.com/StealthAgentsTeam?brdr=1pxd8d8d8&dt=&em=1&Si=1",
+  "research": [
+    {
+      "slug": "pipeline-stage-coverage",
+      "title": "Pipeline stage coverage research brief",
+      "cluster": "Pipeline visibility",
+      "topic": "pipeline stage coverage",
+      "publishedAt": "2026-09-02",
+      "sourceCount": 11,
+      "excerpt": "A transparent loan operations brief that maps five observable workflow indicators for pipeline stage coverage.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "11 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Loan Coordinator reviewed the visible control points that make pipeline stage coverage easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "milestone-exception-review",
+      "title": "Milestone exception review research brief",
+      "cluster": "Pipeline visibility",
+      "topic": "milestone exception review",
+      "publishedAt": "2026-09-03",
+      "sourceCount": 12,
+      "excerpt": "A transparent loan operations brief that maps five observable workflow indicators for milestone exception review.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "12 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Loan Coordinator reviewed the visible control points that make milestone exception review easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "daily-loan-queue-design",
+      "title": "Daily loan queue design research brief",
+      "cluster": "Pipeline visibility",
+      "topic": "daily loan queue design",
+      "publishedAt": "2026-09-04",
+      "sourceCount": 13,
+      "excerpt": "A transparent loan operations brief that maps five observable workflow indicators for daily loan queue design.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "13 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Loan Coordinator reviewed the visible control points that make daily loan queue design easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "pipeline-owner-map",
+      "title": "Pipeline owner map research brief",
+      "cluster": "Pipeline visibility",
+      "topic": "pipeline owner map",
+      "publishedAt": "2026-09-05",
+      "sourceCount": 14,
+      "excerpt": "A transparent loan operations brief that maps five observable workflow indicators for pipeline owner map.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "14 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Loan Coordinator reviewed the visible control points that make pipeline owner map easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "stalled-file-signals",
+      "title": "Stalled file signals research brief",
+      "cluster": "Pipeline visibility",
+      "topic": "stalled file signals",
+      "publishedAt": "2026-09-06",
+      "sourceCount": 15,
+      "excerpt": "A transparent loan operations brief that maps five observable workflow indicators for stalled file signals.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "15 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Loan Coordinator reviewed the visible control points that make stalled file signals easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "document-request-sequence",
+      "title": "Document request sequence research brief",
+      "cluster": "Document workflows",
+      "topic": "document request sequence",
+      "publishedAt": "2026-09-07",
+      "sourceCount": 10,
+      "excerpt": "A transparent loan operations brief that maps five observable workflow indicators for document request sequence.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "10 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Loan Coordinator reviewed the visible control points that make document request sequence easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "condition-tracking-map",
+      "title": "Condition tracking map research brief",
+      "cluster": "Document workflows",
+      "topic": "condition tracking map",
+      "publishedAt": "2026-09-08",
+      "sourceCount": 11,
+      "excerpt": "A transparent loan operations brief that maps five observable workflow indicators for condition tracking map.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "11 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Loan Coordinator reviewed the visible control points that make condition tracking map easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "borrower-document-clarity",
+      "title": "Borrower document clarity research brief",
+      "cluster": "Document workflows",
+      "topic": "borrower document clarity",
+      "publishedAt": "2026-09-09",
+      "sourceCount": 12,
+      "excerpt": "A transparent loan operations brief that maps five observable workflow indicators for borrower document clarity.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "12 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Loan Coordinator reviewed the visible control points that make borrower document clarity easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "file-naming-controls",
+      "title": "File naming controls research brief",
+      "cluster": "Document workflows",
+      "topic": "file naming controls",
+      "publishedAt": "2026-09-10",
+      "sourceCount": 13,
+      "excerpt": "A transparent loan operations brief that maps five observable workflow indicators for file naming controls.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "13 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Loan Coordinator reviewed the visible control points that make file naming controls easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "document-completion-review",
+      "title": "Document completion review research brief",
+      "cluster": "Document workflows",
+      "topic": "document completion review",
+      "publishedAt": "2026-09-11",
+      "sourceCount": 14,
+      "excerpt": "A transparent loan operations brief that maps five observable workflow indicators for document completion review.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "14 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Loan Coordinator reviewed the visible control points that make document completion review easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "borrower-update-cadence",
+      "title": "Borrower update cadence research brief",
+      "cluster": "Borrower coordination",
+      "topic": "borrower update cadence",
+      "publishedAt": "2026-09-12",
+      "sourceCount": 15,
+      "excerpt": "A transparent loan operations brief that maps five observable workflow indicators for borrower update cadence.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "15 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Loan Coordinator reviewed the visible control points that make borrower update cadence easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "approved-message-routing",
+      "title": "Approved message routing research brief",
+      "cluster": "Borrower coordination",
+      "topic": "approved message routing",
+      "publishedAt": "2026-09-13",
+      "sourceCount": 10,
+      "excerpt": "A transparent loan operations brief that maps five observable workflow indicators for approved message routing.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "10 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Loan Coordinator reviewed the visible control points that make approved message routing easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "appointment-coordination",
+      "title": "Appointment coordination research brief",
+      "cluster": "Borrower coordination",
+      "topic": "appointment coordination",
+      "publishedAt": "2026-09-14",
+      "sourceCount": 11,
+      "excerpt": "A transparent loan operations brief that maps five observable workflow indicators for appointment coordination.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "11 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Loan Coordinator reviewed the visible control points that make appointment coordination easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "escalation-path-design",
+      "title": "Escalation path design research brief",
+      "cluster": "Borrower coordination",
+      "topic": "escalation path design",
+      "publishedAt": "2026-09-15",
+      "sourceCount": 12,
+      "excerpt": "A transparent loan operations brief that maps five observable workflow indicators for escalation path design.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "12 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Loan Coordinator reviewed the visible control points that make escalation path design easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "communication-log-quality",
+      "title": "Communication log quality research brief",
+      "cluster": "Borrower coordination",
+      "topic": "communication log quality",
+      "publishedAt": "2026-09-16",
+      "sourceCount": 13,
+      "excerpt": "A transparent loan operations brief that maps five observable workflow indicators for communication log quality.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "13 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Loan Coordinator reviewed the visible control points that make communication log quality easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "closing-task-map",
+      "title": "Closing task map research brief",
+      "cluster": "Closing readiness",
+      "topic": "closing task map",
+      "publishedAt": "2026-09-17",
+      "sourceCount": 14,
+      "excerpt": "A transparent loan operations brief that maps five observable workflow indicators for closing task map.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "14 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Loan Coordinator reviewed the visible control points that make closing task map easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "partner-handoff-review",
+      "title": "Partner handoff review research brief",
+      "cluster": "Closing readiness",
+      "topic": "partner handoff review",
+      "publishedAt": "2026-09-18",
+      "sourceCount": 15,
+      "excerpt": "A transparent loan operations brief that maps five observable workflow indicators for partner handoff review.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "15 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Loan Coordinator reviewed the visible control points that make partner handoff review easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "clear-to-close-coordination",
+      "title": "Clear to close coordination research brief",
+      "cluster": "Closing readiness",
+      "topic": "clear to close coordination",
+      "publishedAt": "2026-09-19",
+      "sourceCount": 10,
+      "excerpt": "A transparent loan operations brief that maps five observable workflow indicators for clear to close coordination.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "10 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Loan Coordinator reviewed the visible control points that make clear to close coordination easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "post-close-completion",
+      "title": "Post close completion research brief",
+      "cluster": "Closing readiness",
+      "topic": "post close completion",
+      "publishedAt": "2026-09-20",
+      "sourceCount": 11,
+      "excerpt": "A transparent loan operations brief that maps five observable workflow indicators for post close completion.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "11 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Loan Coordinator reviewed the visible control points that make post close completion easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "closing-status-controls",
+      "title": "Closing status controls research brief",
+      "cluster": "Closing readiness",
+      "topic": "closing status controls",
+      "publishedAt": "2026-09-21",
+      "sourceCount": 12,
+      "excerpt": "A transparent loan operations brief that maps five observable workflow indicators for closing status controls.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "12 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Loan Coordinator reviewed the visible control points that make closing status controls easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    }
+  ],
+  "legal": {
+    "privacy": "We collect information you choose to submit through our contact form. We use it to respond to your request and operate the consultation workflow. We do not publish submitted information. Infrastructure providers may process data needed to deliver the site and booking experience.",
+    "terms": "This website provides information about administrative support services for mortgage brokers, lending teams, and loan officers. Content is general information and is not professional advice. Service scope, responsibilities, and commercial terms are discussed privately before any engagement.",
+    "accessibility": "We aim to provide a clear, keyboard-friendly, responsive experience. If you encounter a barrier, email our team so we can help and improve the page."
+  }
+}

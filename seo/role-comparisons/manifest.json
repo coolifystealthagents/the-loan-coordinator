@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "preferred": "fractional_vs_va",
+  "launch": "fractional-operations-manager-vs-loan-coordinator-va",
+  "status": "local_verified"
+}
