@@ -1,0 +1,176 @@
+{
+  "site": "TheLoanCoordinator",
+  "domain": "theloancoordinator.com",
+  "canonicalOrigin": "https://theloancoordinator.com",
+  "repository": "coolifystealthagents/the-loan-coordinator",
+  "branch": "main",
+  "baseSha": "74ea174c9eb8d604993e30edbe6bf60132d64943",
+  "publicationDate": "2026-10-13",
+  "visibleDate": "October 13, 2026",
+  "counts": {
+    "blog": 12,
+    "research": 5,
+    "total": 17,
+    "thumbnails": 17
+  },
+  "items": [
+    {
+      "section": "Blog",
+      "slug": "borrower-name-variation-resolution",
+      "title": "Resolve Borrower Name Variations Before Document Routing",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/borrower-name-variation-resolution.svg",
+      "route": "/blog/borrower-name-variation-resolution"
+    },
+    {
+      "section": "Blog",
+      "slug": "employment-verification-request-log",
+      "title": "Track Employment Verification Requests With Evidence",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/employment-verification-request-log.svg",
+      "route": "/blog/employment-verification-request-log"
+    },
+    {
+      "section": "Blog",
+      "slug": "homeowners-insurance-binder-readiness",
+      "title": "Prepare Homeowners Insurance Binder Records for Review",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/homeowners-insurance-binder-readiness.svg",
+      "route": "/blog/homeowners-insurance-binder-readiness"
+    },
+    {
+      "section": "Blog",
+      "slug": "appraisal-reinspection-milestone-control",
+      "title": "Control Appraisal Reinspection Milestones",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/appraisal-reinspection-milestone-control.svg",
+      "route": "/blog/appraisal-reinspection-milestone-control"
+    },
+    {
+      "section": "Blog",
+      "slug": "title-commitment-exception-routing",
+      "title": "Route Title Commitment Exceptions to Qualified Owners",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/title-commitment-exception-routing.svg",
+      "route": "/blog/title-commitment-exception-routing"
+    },
+    {
+      "section": "Blog",
+      "slug": "loan-estimate-change-request-evidence",
+      "title": "Preserve Evidence for Loan Estimate Change Requests",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/loan-estimate-change-request-evidence.svg",
+      "route": "/blog/loan-estimate-change-request-evidence"
+    },
+    {
+      "section": "Blog",
+      "slug": "gift-fund-document-handoff",
+      "title": "Hand Off Gift Fund Documents Without Status Ambiguity",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/gift-fund-document-handoff.svg",
+      "route": "/blog/gift-fund-document-handoff"
+    },
+    {
+      "section": "Blog",
+      "slug": "closing-agent-contact-verification",
+      "title": "Verify Closing Agent Contact Changes",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/closing-agent-contact-verification.svg",
+      "route": "/blog/closing-agent-contact-verification"
+    },
+    {
+      "section": "Blog",
+      "slug": "condo-document-request-control",
+      "title": "Control Condominium Document Requests",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/condo-document-request-control.svg",
+      "route": "/blog/condo-document-request-control"
+    },
+    {
+      "section": "Blog",
+      "slug": "payoff-statement-expiration-tracking",
+      "title": "Track Payoff Statement Expiration and Refresh Ownership",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/payoff-statement-expiration-tracking.svg",
+      "route": "/blog/payoff-statement-expiration-tracking"
+    },
+    {
+      "section": "Blog",
+      "slug": "flood-zone-document-routing",
+      "title": "Route Flood Zone Documents With Clear Boundaries",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/flood-zone-document-routing.svg",
+      "route": "/blog/flood-zone-document-routing"
+    },
+    {
+      "section": "Blog",
+      "slug": "final-conditions-ownership-board",
+      "title": "Build a Final Conditions Ownership Board",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/final-conditions-ownership-board.svg",
+      "route": "/blog/final-conditions-ownership-board"
+    },
+    {
+      "section": "Research",
+      "slug": "borrower-document-rejection-reason-consistency",
+      "title": "Borrower Document Rejection Reason Consistency",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-research.ts",
+      "thumbnailPath": "public/thumbnails/october-13/borrower-document-rejection-reason-consistency.svg",
+      "route": "/research/borrower-document-rejection-reason-consistency",
+      "sources": 10
+    },
+    {
+      "section": "Research",
+      "slug": "appraisal-milestone-timestamp-completeness",
+      "title": "Appraisal Milestone Timestamp Completeness",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-research.ts",
+      "thumbnailPath": "public/thumbnails/october-13/appraisal-milestone-timestamp-completeness.svg",
+      "route": "/research/appraisal-milestone-timestamp-completeness",
+      "sources": 10
+    },
+    {
+      "section": "Research",
+      "slug": "closing-agent-change-verification-reliability",
+      "title": "Closing Agent Change Verification Reliability",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-research.ts",
+      "thumbnailPath": "public/thumbnails/october-13/closing-agent-change-verification-reliability.svg",
+      "route": "/research/closing-agent-change-verification-reliability",
+      "sources": 10
+    },
+    {
+      "section": "Research",
+      "slug": "condition-reopen-rate-measurement",
+      "title": "Condition Reopen Rate Measurement",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-research.ts",
+      "thumbnailPath": "public/thumbnails/october-13/condition-reopen-rate-measurement.svg",
+      "route": "/research/condition-reopen-rate-measurement",
+      "sources": 10
+    },
+    {
+      "section": "Research",
+      "slug": "preclosing-record-lineage-assessment",
+      "title": "Preclosing Record Lineage Assessment",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-research.ts",
+      "thumbnailPath": "public/thumbnails/october-13/preclosing-record-lineage-assessment.svg",
+      "route": "/research/preclosing-record-lineage-assessment",
+      "sources": 10
+    }
+  ]
+}
