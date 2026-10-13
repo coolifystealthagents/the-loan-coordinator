@@ -1,0 +1,102 @@
+{
+  "site": "TheLoanCoordinator",
+  "domain": "theloancoordinator.com",
+  "repository": "coolifystealthagents/the-loan-coordinator",
+  "branch": "main",
+  "publicationDate": "2026-10-12",
+  "visibleDate": "October 12, 2026",
+  "blog": [
+    {
+      "slug": "loan-pipeline-daily-control-board",
+      "title": "Loan Pipeline Daily Control Board",
+      "thumbnail": "public/thumbnails/october-12/loan-pipeline-daily-control-board.svg"
+    },
+    {
+      "slug": "borrower-document-request-cadence",
+      "title": "Borrower Document Request Cadence",
+      "thumbnail": "public/thumbnails/october-12/borrower-document-request-cadence.svg"
+    },
+    {
+      "slug": "condition-tracking-without-duplicate-follow-up",
+      "title": "Condition Tracking Without Duplicate Follow-Up",
+      "thumbnail": "public/thumbnails/october-12/condition-tracking-without-duplicate-follow-up.svg"
+    },
+    {
+      "slug": "clean-handoffs-from-application-to-processing",
+      "title": "Clean Handoffs from Application to Processing",
+      "thumbnail": "public/thumbnails/october-12/clean-handoffs-from-application-to-processing.svg"
+    },
+    {
+      "slug": "appraisal-milestone-coordination-playbook",
+      "title": "Appraisal Milestone Coordination Playbook",
+      "thumbnail": "public/thumbnails/october-12/appraisal-milestone-coordination-playbook.svg"
+    },
+    {
+      "slug": "title-and-insurance-readiness-checklist",
+      "title": "Title and Insurance Readiness Checklist",
+      "thumbnail": "public/thumbnails/october-12/title-and-insurance-readiness-checklist.svg"
+    },
+    {
+      "slug": "closing-disclosure-timeline-control",
+      "title": "Closing Disclosure Timeline Control",
+      "thumbnail": "public/thumbnails/october-12/closing-disclosure-timeline-control.svg"
+    },
+    {
+      "slug": "exception-escalation-for-stalled-loan-files",
+      "title": "Exception Escalation for Stalled Loan Files",
+      "thumbnail": "public/thumbnails/october-12/exception-escalation-for-stalled-loan-files.svg"
+    },
+    {
+      "slug": "loan-officer-coordinator-communication-rhythm",
+      "title": "Loan Officer and Coordinator Communication Rhythm",
+      "thumbnail": "public/thumbnails/october-12/loan-officer-coordinator-communication-rhythm.svg"
+    },
+    {
+      "slug": "quality-review-before-clear-to-close",
+      "title": "Quality Review Before Clear to Close",
+      "thumbnail": "public/thumbnails/october-12/quality-review-before-clear-to-close.svg"
+    },
+    {
+      "slug": "post-closing-document-chase-workflow",
+      "title": "Post-Closing Document Chase Workflow",
+      "thumbnail": "public/thumbnails/october-12/post-closing-document-chase-workflow.svg"
+    },
+    {
+      "slug": "access-controls-for-remote-loan-coordination",
+      "title": "Access Controls for Remote Loan Coordination",
+      "thumbnail": "public/thumbnails/october-12/access-controls-for-remote-loan-coordination.svg"
+    }
+  ],
+  "research": [
+    {
+      "slug": "measuring-pipeline-aging-with-stage-exit-evidence",
+      "title": "Measuring Pipeline Aging with Stage Exit Evidence",
+      "thumbnail": "public/thumbnails/october-12/measuring-pipeline-aging-with-stage-exit-evidence.svg",
+      "sources": 10
+    },
+    {
+      "slug": "source-based-study-of-mortgage-disclosure-timing-controls",
+      "title": "Source-Based Study of Mortgage Disclosure Timing Controls",
+      "thumbnail": "public/thumbnails/october-12/source-based-study-of-mortgage-disclosure-timing-controls.svg",
+      "sources": 10
+    },
+    {
+      "slug": "evidence-framework-for-borrower-document-completeness",
+      "title": "Evidence Framework for Borrower Document Completeness",
+      "thumbnail": "public/thumbnails/october-12/evidence-framework-for-borrower-document-completeness.svg",
+      "sources": 10
+    },
+    {
+      "slug": "audit-method-for-condition-queue-reliability",
+      "title": "Audit Method for Condition Queue Reliability",
+      "thumbnail": "public/thumbnails/october-12/audit-method-for-condition-queue-reliability.svg",
+      "sources": 10
+    },
+    {
+      "slug": "research-brief-on-closing-readiness-signals",
+      "title": "Research Brief on Closing Readiness Signals",
+      "thumbnail": "public/thumbnails/october-12/research-brief-on-closing-readiness-signals.svg",
+      "sources": 10
+    }
+  ]
+}
