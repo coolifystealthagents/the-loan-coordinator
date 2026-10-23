@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import LeadForm from '@/components/LeadForm';
+import TocSync from './TocSync';
 import {site} from '@/lib/site';
 import type {October13Blog} from '@/lib/october13-blog';
 import type {October13Research} from '@/lib/october13-research';
@@ -8,7 +9,7 @@ import type {October13Research} from '@/lib/october13-research';
 export function October13BlogArticle({article}:{article:October13Blog}) {
   return <ArticleShell type="Blog" article={article}>
     <div className="card"><b>Operational checklist</b><ul>{article.checklist.map(item=><li key={item}>{item}</li>)}</ul></div>
-    {article.sections.map(section=><section key={section.heading}><h2>{section.heading}</h2>{section.paragraphs.map(paragraph=><p key={paragraph}>{paragraph}</p>)}</section>)}
+    {article.sections.map(section=><section key={section.heading}><h2 id={tocId(section.heading)}>{section.heading}</h2>{section.paragraphs.map(paragraph=><p key={paragraph}>{paragraph}</p>)}</section>)}
     <p className="article-note">This operational guide is educational and does not replace legal, compliance, credit, or underwriting review.</p>
     <Related type="blog" slugs={article.related}/>
   </ArticleShell>;
@@ -17,20 +18,21 @@ export function October13BlogArticle({article}:{article:October13Blog}) {
 export function October13ResearchArticle({article}:{article:October13Research}) {
   return <ArticleShell type="Research" article={article}>
     <div className="card"><b>Research proposition</b><p>{article.thesis}</p><ul>{article.questions.map(item=><li key={item}>{item}</li>)}</ul></div>
-    {article.sections.map(section=><section key={section.heading}><h2>{section.heading}</h2>{section.paragraphs.map(paragraph=><p key={paragraph}>{paragraph}</p>)}</section>)}
+    {article.sections.map(section=><section key={section.heading}><h2 id={tocId(section.heading)}>{section.heading}</h2>{section.paragraphs.map(paragraph=><p key={paragraph}>{paragraph}</p>)}</section>)}
     <h2>Authoritative sources reviewed</h2><ol className="source-list">{article.sources.map(source=><li key={source.url}><a href={source.url} rel="nofollow noopener">{source.label}</a></li>)}</ol>
     <p className="article-note">Sources were reviewed for workflow context. This brief reports an original operational method and makes no lending or compliance conclusion.</p>
     <Related type="research" slugs={article.related}/>
   </ArticleShell>;
 }
 
+const tocId=(value:string)=>value.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'');
 function ArticleShell({type,article,children}:{type:'Blog'|'Research';article:October13Blog|October13Research;children:React.ReactNode}) {
-  return <section className="section"><div className="wrap">
+  return <section className="section"><TocSync /><div className="wrap">
     <p className="eyebrow">{type} · {article.category}</p><h1>{article.title}</h1><p className="lede">{article.excerpt}</p>
-    <p className="article-byline">{site.brand} Editorial Team · Published {article.visibleDate} · {article.readingMinutes} minute read</p>
+    <p className="article-byline">{site.brand} Editorial Team · Published <time dateTime={article.publishedAt}>{article.visibleDate}</time> · {article.readingMinutes} minute read</p>
     <Image className="article-thumb" src={article.thumbnail} alt={article.title} width={1200} height={630} priority/>
     <div className="article-layout section"><article className="prose">{children}<h2>Build a clearer coordination record</h2><p>Choose one recurring file movement, define its evidence and escalation boundary, and review the retained record with the accountable owner.</p><Link className="cta" href="/contact-us">Discuss your workflow</Link></article>
-      <aside className="sidebar"><div className="card"><h2>Publication details</h2><p><b>Published:</b> {article.visibleDate}</p><p><b>Category:</b> {article.category}</p><p><b>Editorial review:</b> Complete</p></div><div className="card"><h3>Plan the next step</h3><LeadForm source={type.toLowerCase()+'-october-13'}/></div></aside>
+      <aside className="sidebar"><nav className="article-toc" aria-label="Table of contents"><h2>Table of contents</h2><ol>{article.sections.map(section=><li key={section.heading}><a href={`#${tocId(section.heading)}`}>{section.heading}</a></li>)}</ol></nav><div className="card"><h2>Publication details</h2><p><b>Published:</b> {article.visibleDate}</p><p><b>Category:</b> {article.category}</p><p><b>Editorial review:</b> Complete</p></div><div className="card"><h3>Plan the next step</h3><LeadForm source={type.toLowerCase()+'-october-13'}/></div></aside>
     </div>
   </div></section>;
 }
