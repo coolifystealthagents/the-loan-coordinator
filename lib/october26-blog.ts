@@ -1,6 +1,8 @@
 import type { October22Blog } from './october22-blog';
 
-export const october26Blogs: October22Blog[] = [
+type October26Blog = October22Blog & { sources: { label: string; url: string }[] };
+
+export const october26Blogs: October26Blog[] = [
   {
     "slug": "tlc-evidence-aged-backlog",
     "title": "Triage an Aged Loan Coordination And Mortgage Operations Backlog by Evidence Quality",
@@ -105,6 +107,28 @@ export const october26Blogs: October22Blog[] = [
       "tlc-access-boundary",
       "tlc-audit-pack",
       "tlc-escalation-log"
+    ],
+    "sources": [
+      {
+        "label": "SEC Recordkeeping Guidance",
+        "url": "https://www.sec.gov/rules-regulations/staff-guidance/division-investment-management-frequently-asked-questions"
+      },
+      {
+        "label": "FINRA Rule 4511",
+        "url": "https://www.finra.org/rules-guidance/rulebooks/finra-rules/4511"
+      },
+      {
+        "label": "GAO Standards for Internal Control",
+        "url": "https://www.gao.gov/products/gao-14-704g"
+      },
+      {
+        "label": "SEC Investment Adviser Compliance",
+        "url": "https://www.sec.gov/investment/investment-adviser-compliance"
+      },
+      {
+        "label": "U.S. Department of Labor, FLSA Recordkeeping",
+        "url": "https://www.dol.gov/agencies/whd/fact-sheets/21-flsa-recordkeeping"
+      }
     ]
   },
   {
@@ -211,6 +235,28 @@ export const october26Blogs: October22Blog[] = [
       "tlc-audit-pack",
       "tlc-escalation-log",
       "tlc-exception-path"
+    ],
+    "sources": [
+      {
+        "label": "SEC Investment Adviser Compliance",
+        "url": "https://www.sec.gov/investment/investment-adviser-compliance"
+      },
+      {
+        "label": "FINRA Rule 4511",
+        "url": "https://www.finra.org/rules-guidance/rulebooks/finra-rules/4511"
+      },
+      {
+        "label": "GAO Standards for Internal Control",
+        "url": "https://www.gao.gov/products/gao-14-704g"
+      },
+      {
+        "label": "SEC Recordkeeping Guidance",
+        "url": "https://www.sec.gov/rules-regulations/staff-guidance/division-investment-management-frequently-asked-questions"
+      },
+      {
+        "label": "NALS, The Association for Legal Professionals",
+        "url": "https://www.nals.org/"
+      }
     ]
   },
   {
@@ -317,6 +363,28 @@ export const october26Blogs: October22Blog[] = [
       "tlc-escalation-log",
       "tlc-exception-path",
       "tlc-handoff-record"
+    ],
+    "sources": [
+      {
+        "label": "SEC Recordkeeping Guidance",
+        "url": "https://www.sec.gov/rules-regulations/staff-guidance/division-investment-management-frequently-asked-questions"
+      },
+      {
+        "label": "FINRA Rule 4511",
+        "url": "https://www.finra.org/rules-guidance/rulebooks/finra-rules/4511"
+      },
+      {
+        "label": "SEC Investment Adviser Compliance",
+        "url": "https://www.sec.gov/investment/investment-adviser-compliance"
+      },
+      {
+        "label": "GAO Standards for Internal Control",
+        "url": "https://www.gao.gov/products/gao-14-704g"
+      },
+      {
+        "label": "American Bar Association",
+        "url": "https://www.americanbar.org/"
+      }
     ]
   },
   {
@@ -423,6 +491,28 @@ export const october26Blogs: October22Blog[] = [
       "tlc-exception-path",
       "tlc-handoff-record",
       "tlc-intake-evidence-control"
+    ],
+    "sources": [
+      {
+        "label": "FINRA Rule 4511",
+        "url": "https://www.finra.org/rules-guidance/rulebooks/finra-rules/4511"
+      },
+      {
+        "label": "SEC Recordkeeping Guidance",
+        "url": "https://www.sec.gov/rules-regulations/staff-guidance/division-investment-management-frequently-asked-questions"
+      },
+      {
+        "label": "SEC Investment Adviser Compliance",
+        "url": "https://www.sec.gov/investment/investment-adviser-compliance"
+      },
+      {
+        "label": "GAO Standards for Internal Control",
+        "url": "https://www.gao.gov/products/gao-14-704g"
+      },
+      {
+        "label": "CMS Medicare Learning Network",
+        "url": "https://www.cms.gov/"
+      }
     ]
   },
   {
@@ -529,6 +619,28 @@ export const october26Blogs: October22Blog[] = [
       "tlc-handoff-record",
       "tlc-intake-evidence-control",
       "tlc-metric-definition"
+    ],
+    "sources": [
+      {
+        "label": "GAO Standards for Internal Control",
+        "url": "https://www.gao.gov/products/gao-14-704g"
+      },
+      {
+        "label": "FINRA Rule 4511",
+        "url": "https://www.finra.org/rules-guidance/rulebooks/finra-rules/4511"
+      },
+      {
+        "label": "SEC Recordkeeping Guidance",
+        "url": "https://www.sec.gov/rules-regulations/staff-guidance/division-investment-management-frequently-asked-questions"
+      },
+      {
+        "label": "SEC Investment Adviser Compliance",
+        "url": "https://www.sec.gov/investment/investment-adviser-compliance"
+      },
+      {
+        "label": "ISO 31000 Risk Management",
+        "url": "https://www.iso.org/iso-31000-risk-management.html"
+      }
     ]
   },
   {
@@ -635,6 +747,28 @@ export const october26Blogs: October22Blog[] = [
       "tlc-intake-evidence-control",
       "tlc-metric-definition",
       "tlc-onboarding-plan"
+    ],
+    "sources": [
+      {
+        "label": "SEC Investment Adviser Compliance",
+        "url": "https://www.sec.gov/investment/investment-adviser-compliance"
+      },
+      {
+        "label": "FINRA Rule 4511",
+        "url": "https://www.finra.org/rules-guidance/rulebooks/finra-rules/4511"
+      },
+      {
+        "label": "SEC Recordkeeping Guidance",
+        "url": "https://www.sec.gov/rules-regulations/staff-guidance/division-investment-management-frequently-asked-questions"
+      },
+      {
+        "label": "GAO Standards for Internal Control",
+        "url": "https://www.gao.gov/products/gao-14-704g"
+      },
+      {
+        "label": "CMS Medicare Learning Network",
+        "url": "https://www.cms.gov/"
+      }
     ]
   },
   {
@@ -741,6 +875,28 @@ export const october26Blogs: October22Blog[] = [
       "tlc-metric-definition",
       "tlc-onboarding-plan",
       "tlc-quality-sample"
+    ],
+    "sources": [
+      {
+        "label": "GAO Standards for Internal Control",
+        "url": "https://www.gao.gov/products/gao-14-704g"
+      },
+      {
+        "label": "FINRA Rule 4511",
+        "url": "https://www.finra.org/rules-guidance/rulebooks/finra-rules/4511"
+      },
+      {
+        "label": "SEC Investment Adviser Compliance",
+        "url": "https://www.sec.gov/investment/investment-adviser-compliance"
+      },
+      {
+        "label": "SEC Recordkeeping Guidance",
+        "url": "https://www.sec.gov/rules-regulations/staff-guidance/division-investment-management-frequently-asked-questions"
+      },
+      {
+        "label": "Internal Revenue Service",
+        "url": "https://www.irs.gov/"
+      }
     ]
   },
   {
@@ -847,6 +1003,28 @@ export const october26Blogs: October22Blog[] = [
       "tlc-onboarding-plan",
       "tlc-quality-sample",
       "tlc-queue-ownership"
+    ],
+    "sources": [
+      {
+        "label": "SEC Recordkeeping Guidance",
+        "url": "https://www.sec.gov/rules-regulations/staff-guidance/division-investment-management-frequently-asked-questions"
+      },
+      {
+        "label": "SEC Investment Adviser Compliance",
+        "url": "https://www.sec.gov/investment/investment-adviser-compliance"
+      },
+      {
+        "label": "GAO Standards for Internal Control",
+        "url": "https://www.gao.gov/products/gao-14-704g"
+      },
+      {
+        "label": "FINRA Rule 4511",
+        "url": "https://www.finra.org/rules-guidance/rulebooks/finra-rules/4511"
+      },
+      {
+        "label": "Internal Revenue Service",
+        "url": "https://www.irs.gov/"
+      }
     ]
   },
   {
@@ -953,6 +1131,28 @@ export const october26Blogs: October22Blog[] = [
       "tlc-quality-sample",
       "tlc-queue-ownership",
       "tlc-source-map"
+    ],
+    "sources": [
+      {
+        "label": "GAO Standards for Internal Control",
+        "url": "https://www.gao.gov/products/gao-14-704g"
+      },
+      {
+        "label": "FINRA Rule 4511",
+        "url": "https://www.finra.org/rules-guidance/rulebooks/finra-rules/4511"
+      },
+      {
+        "label": "SEC Investment Adviser Compliance",
+        "url": "https://www.sec.gov/investment/investment-adviser-compliance"
+      },
+      {
+        "label": "SEC Recordkeeping Guidance",
+        "url": "https://www.sec.gov/rules-regulations/staff-guidance/division-investment-management-frequently-asked-questions"
+      },
+      {
+        "label": "GAO Assessing Data Reliability",
+        "url": "https://www.gao.gov/products/gao-20-283g"
+      }
     ]
   },
   {
@@ -1059,6 +1259,28 @@ export const october26Blogs: October22Blog[] = [
       "tlc-queue-ownership",
       "tlc-source-map",
       "tlc-weekly-brief"
+    ],
+    "sources": [
+      {
+        "label": "SEC Recordkeeping Guidance",
+        "url": "https://www.sec.gov/rules-regulations/staff-guidance/division-investment-management-frequently-asked-questions"
+      },
+      {
+        "label": "FINRA Rule 4511",
+        "url": "https://www.finra.org/rules-guidance/rulebooks/finra-rules/4511"
+      },
+      {
+        "label": "GAO Standards for Internal Control",
+        "url": "https://www.gao.gov/products/gao-14-704g"
+      },
+      {
+        "label": "SEC Investment Adviser Compliance",
+        "url": "https://www.sec.gov/investment/investment-adviser-compliance"
+      },
+      {
+        "label": "ISO 31000 Risk Management",
+        "url": "https://www.iso.org/iso-31000-risk-management.html"
+      }
     ]
   },
   {
@@ -1165,6 +1387,28 @@ export const october26Blogs: October22Blog[] = [
       "tlc-source-map",
       "tlc-weekly-brief",
       "tlc-access-boundary"
+    ],
+    "sources": [
+      {
+        "label": "GAO Standards for Internal Control",
+        "url": "https://www.gao.gov/products/gao-14-704g"
+      },
+      {
+        "label": "SEC Investment Adviser Compliance",
+        "url": "https://www.sec.gov/investment/investment-adviser-compliance"
+      },
+      {
+        "label": "FINRA Rule 4511",
+        "url": "https://www.finra.org/rules-guidance/rulebooks/finra-rules/4511"
+      },
+      {
+        "label": "SEC Recordkeeping Guidance",
+        "url": "https://www.sec.gov/rules-regulations/staff-guidance/division-investment-management-frequently-asked-questions"
+      },
+      {
+        "label": "NALS, The Association for Legal Professionals",
+        "url": "https://www.nals.org/"
+      }
     ]
   },
   {
@@ -1271,6 +1515,28 @@ export const october26Blogs: October22Blog[] = [
       "tlc-weekly-brief",
       "tlc-access-boundary",
       "tlc-audit-pack"
+    ],
+    "sources": [
+      {
+        "label": "SEC Investment Adviser Compliance",
+        "url": "https://www.sec.gov/investment/investment-adviser-compliance"
+      },
+      {
+        "label": "SEC Recordkeeping Guidance",
+        "url": "https://www.sec.gov/rules-regulations/staff-guidance/division-investment-management-frequently-asked-questions"
+      },
+      {
+        "label": "GAO Standards for Internal Control",
+        "url": "https://www.gao.gov/products/gao-14-704g"
+      },
+      {
+        "label": "FINRA Rule 4511",
+        "url": "https://www.finra.org/rules-guidance/rulebooks/finra-rules/4511"
+      },
+      {
+        "label": "CMS Medicare Learning Network",
+        "url": "https://www.cms.gov/"
+      }
     ]
   }
 ];
