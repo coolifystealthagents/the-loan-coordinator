@@ -2,3 +2,9 @@
 /* Reading navigation: bound the sticky rail and offset heading anchors. */
 .sidebar{max-height:calc(100vh - 140px);overflow-y:auto;overscroll-behavior:contain}
 .prose h2,.prose h3,.prose section[id],[id]{scroll-margin-top:112px}
+.article-toc h2{font-size:1rem;line-height:1.3;margin:0 0 .6rem;letter-spacing:0}
+.article-toc a{font-size:.9rem;line-height:1.45}
+.article-toc ol{gap:.25rem}
+
+.article-card h3{font-size:1.5rem;line-height:1.22;letter-spacing:0}
+.article-card img{aspect-ratio:16/9;object-fit:cover;height:auto}
