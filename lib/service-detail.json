@@ -1,0 +1,205 @@
+[
+  {
+    "slug": "loan-pipeline-coordination",
+    "title": "Loan pipeline coordination",
+    "benefit": "A shared view of every active file, its next action, and the person responsible.",
+    "tasks": [
+      "Reconcile file stages against the approved loan system",
+      "Maintain milestone dates and accountable owners",
+      "Separate waiting-on-borrower items from internal blockers",
+      "Prepare a daily exception list for the loan team"
+    ],
+    "deliverables": [
+      "Pipeline view with next actions",
+      "Milestone exception report",
+      "Dated handoff to each file owner"
+    ],
+    "prep": [
+      "Current pipeline export and stage definitions",
+      "Owner roster and milestone rules",
+      "Approved LOS access and reporting cadence"
+    ],
+    "example": "A file has received documents but still shows an old pipeline stage. The coordinator records the received date, flags the mismatch to the processor, and keeps the next milestone visible until the authorized owner confirms the update.",
+    "faq": [
+      {
+        "question": "Can a coordinator mark a loan approved?",
+        "answer": "No. Approval and underwriting status must come from an authorized source. Coordination keeps that status visible without making the decision."
+      }
+    ],
+    "photoAlt": "Professionals reviewing records together at a laptop"
+  },
+  {
+    "slug": "document-request-support",
+    "title": "Document request support",
+    "benefit": "Make outstanding document requests clear without asking borrowers to send the same item twice.",
+    "tasks": [
+      "Build checklists from processor-approved requests",
+      "Record receipt dates and document versions",
+      "Send approved reminders through the secure channel",
+      "Route missing, unreadable, or mismatched items for review"
+    ],
+    "deliverables": [
+      "Outstanding-document checklist",
+      "Receipt and version register",
+      "Processor review queue"
+    ],
+    "prep": [
+      "Approved request checklist",
+      "Secure upload destination and naming rules",
+      "Reminder templates and escalation owner"
+    ],
+    "example": "A borrower uploads two versions of an income document. The coordinator labels both by receipt date, records the unresolved version question, and asks the processor which version to retain for review.",
+    "faq": [
+      {
+        "question": "Does receipt mean a document is acceptable?",
+        "answer": "No. Receipt tracking is administrative. Your processor or underwriter decides whether a document satisfies the requirement."
+      }
+    ],
+    "photoAlt": "A person completing and checking a document"
+  },
+  {
+    "slug": "borrower-communication-support",
+    "title": "Borrower communication support",
+    "benefit": "Give borrowers consistent updates while keeping lending questions with licensed staff.",
+    "tasks": [
+      "Maintain the approved contact schedule",
+      "Send authorized status messages and reminders",
+      "Record replies and promised callbacks",
+      "Route questions about rates, eligibility, or terms to licensed staff"
+    ],
+    "deliverables": [
+      "Communication history",
+      "Callback list with owners",
+      "Outstanding borrower questions"
+    ],
+    "prep": [
+      "Approved message library",
+      "Contact preferences and consent instructions",
+      "Licensed-team routing list"
+    ],
+    "example": "A borrower replies to a document reminder with a question about their rate. The coordinator logs the question, arranges the approved callback, and leaves the rate explanation to the loan officer.",
+    "faq": [
+      {
+        "question": "Can messages be sent in our team\u2019s voice?",
+        "answer": "Yes. Supply approved templates, sender permissions, and examples. New promises or changes to loan terms require your authorized review."
+      }
+    ],
+    "photoAlt": "Office team handling communications at their computers"
+  },
+  {
+    "slug": "processor-workflow-support",
+    "title": "Processor workflow support",
+    "benefit": "Keep conditions, internal requests, and handoffs organized around the processor\u2019s working queue.",
+    "tasks": [
+      "Maintain the processor-approved condition tracker",
+      "Attach references to received supporting records",
+      "Follow up with named internal owners",
+      "Prepare unresolved-item summaries before handoff"
+    ],
+    "deliverables": [
+      "Condition status tracker",
+      "Internal follow-up log",
+      "Processor handoff summary"
+    ],
+    "prep": [
+      "Processor-defined task queue",
+      "Source-record locations",
+      "Condition owners and escalation rules"
+    ],
+    "example": "Before a processor handoff, the coordinator identifies three open requests, attaches the available source links, and lists the next owner for each. The processor retains all condition-clearance decisions.",
+    "faq": [
+      {
+        "question": "Can support clear underwriting conditions?",
+        "answer": "No. The coordinator tracks requests and supporting records. Your authorized processor or underwriter confirms satisfaction of conditions."
+      }
+    ],
+    "photoAlt": "Colleagues handing over documents at a meeting"
+  },
+  {
+    "slug": "closing-coordination-support",
+    "title": "Closing coordination support",
+    "benefit": "Bring appointment logistics and administrative dependencies into one current closing checklist.",
+    "tasks": [
+      "Confirm approved appointment details with participants",
+      "Track closing-document readiness as reported by owners",
+      "Maintain title and internal contact information",
+      "Flag unresolved logistics before the planned closing"
+    ],
+    "deliverables": [
+      "Closing task checklist",
+      "Participant and appointment brief",
+      "Open-item escalation note"
+    ],
+    "prep": [
+      "Approved closing date and participant list",
+      "Title and closing-team contacts",
+      "Rules for documenting readiness and changes"
+    ],
+    "example": "A closing appointment changes location. The coordinator confirms the new address with the authorized closing contact, updates the logistics brief, and records which participants have acknowledged it.",
+    "faq": [
+      {
+        "question": "Can a coordinator confirm wire instructions?",
+        "answer": "No. Funds movement and verification of wire instructions stay with your authorized closing and finance professionals through their established controls."
+      }
+    ],
+    "photoAlt": "Professionals reviewing a document at a meeting"
+  },
+  {
+    "slug": "post-close-file-support",
+    "title": "Post-close file support",
+    "benefit": "Leave a searchable completion record after the closing team has finished its work.",
+    "tasks": [
+      "Compare the file with the approved archive checklist",
+      "Label final documents and flag missing records",
+      "Maintain post-close requests and responsible owners",
+      "Record the approved archive location and handoff date"
+    ],
+    "deliverables": [
+      "Archive-readiness checklist",
+      "Missing-record register",
+      "Post-close handoff record"
+    ],
+    "prep": [
+      "Approved completion checklist",
+      "Retention and access instructions",
+      "Final-document owner list"
+    ],
+    "example": "The close is complete but one signed record is absent from the archive folder. The coordinator records the gap, assigns the follow-up to the closing owner, and keeps the file marked incomplete for administrative handoff.",
+    "faq": [
+      {
+        "question": "Does this include a legal file audit?",
+        "answer": "No. This is checklist and document coordination. Legal sufficiency, retention policy, and compliance review remain with your qualified team."
+      }
+    ],
+    "photoAlt": "Office professional organizing and reviewing folders"
+  },
+  {
+    "slug": "partner-update-support",
+    "title": "Partner update support",
+    "benefit": "Keep title, insurance, and real estate partners informed through approved status updates.",
+    "tasks": [
+      "Maintain a current partner contact roster",
+      "Prepare updates from approved file status",
+      "Track partner requests and response dates",
+      "Escalate conflicting information to the file owner"
+    ],
+    "deliverables": [
+      "Partner communication log",
+      "Open-request list",
+      "Current contact and handoff matrix"
+    ],
+    "prep": [
+      "Approved status fields for sharing",
+      "Partner recipient and access list",
+      "Communication cadence and response rules"
+    ],
+    "example": "A title partner requests an update that conflicts with the internal tracker. The coordinator flags the discrepancy to the file owner before sending an update and records the confirmed status once approved.",
+    "faq": [
+      {
+        "question": "Can all file details be shared with partners?",
+        "answer": "Only the fields and recipients approved by your organization. Sensitive documents stay in the authorized channel with the appropriate access."
+      }
+    ],
+    "photoAlt": "Professional reviewing a binder while using a headset"
+  }
+]

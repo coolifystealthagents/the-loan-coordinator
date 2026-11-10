@@ -1,0 +1,83 @@
+[
+  {
+    "asset": "/service-photography/home.webp",
+    "pexelsPhotoId": 7821671,
+    "source": "https://www.pexels.com/photo/7821671/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "Two professionals discussing documents across a desk",
+    "sha256": "89d0bc2bd1c6fe4d96749fb2914649a34e073eba9ac3b0becdbcb5529e16c6a2",
+    "note": "Licensed stock photograph illustrating the work context; not presented as company staff or a client."
+  },
+  {
+    "asset": "/service-photography/about.webp",
+    "pexelsPhotoId": 7964421,
+    "source": "https://www.pexels.com/photo/7964421/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "Professionals reviewing records together at a laptop",
+    "sha256": "003b3baff6592ed3b9ae90676ad88381c2eeb9afe2d5acaf7c583dd032f67986",
+    "note": "Licensed stock photograph illustrating the work context; not presented as company staff or a client."
+  },
+  {
+    "asset": "/service-photography/loan-pipeline-coordination.webp",
+    "pexelsPhotoId": 7964421,
+    "source": "https://www.pexels.com/photo/7964421/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "Professionals reviewing records together at a laptop",
+    "sha256": "003b3baff6592ed3b9ae90676ad88381c2eeb9afe2d5acaf7c583dd032f67986",
+    "note": "Licensed stock photograph illustrating the work context; not presented as company staff or a client."
+  },
+  {
+    "asset": "/service-photography/document-request-support.webp",
+    "pexelsPhotoId": 16282318,
+    "source": "https://www.pexels.com/photo/16282318/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "A person completing and checking a document",
+    "sha256": "e3f921371c51a255ec4af6828751f99d002ce02b7e90b634a9a230b0b89ae195",
+    "note": "Licensed stock photograph illustrating the work context; not presented as company staff or a client."
+  },
+  {
+    "asset": "/service-photography/borrower-communication-support.webp",
+    "pexelsPhotoId": 7689641,
+    "source": "https://www.pexels.com/photo/7689641/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "Office team handling communications at their computers",
+    "sha256": "f5254d1b639d4e2b46cd85043552ee9c2747e78027f2dc50d88b6d2892cc31f5",
+    "note": "Licensed stock photograph illustrating the work context; not presented as company staff or a client."
+  },
+  {
+    "asset": "/service-photography/processor-workflow-support.webp",
+    "pexelsPhotoId": 12899096,
+    "source": "https://www.pexels.com/photo/12899096/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "Colleagues handing over documents at a meeting",
+    "sha256": "5c26b5549a1be62df41fe47986511a19bd8416b2d7b29d2de001f187f6b5324f",
+    "note": "Licensed stock photograph illustrating the work context; not presented as company staff or a client."
+  },
+  {
+    "asset": "/service-photography/closing-coordination-support.webp",
+    "pexelsPhotoId": 5668801,
+    "source": "https://www.pexels.com/photo/5668801/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "Professionals reviewing a document at a meeting",
+    "sha256": "b97cc6514d5cd94341e3f7762a2d0fa6124435198f11d91945da4d12924f3ea1",
+    "note": "Licensed stock photograph illustrating the work context; not presented as company staff or a client."
+  },
+  {
+    "asset": "/service-photography/post-close-file-support.webp",
+    "pexelsPhotoId": 8872671,
+    "source": "https://www.pexels.com/photo/8872671/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "Office professional organizing and reviewing folders",
+    "sha256": "0332c57ab06cf7992fbc9ee0c2533b102b25678ed5b19d397b4f6e1bd3212001",
+    "note": "Licensed stock photograph illustrating the work context; not presented as company staff or a client."
+  },
+  {
+    "asset": "/service-photography/partner-update-support.webp",
+    "pexelsPhotoId": 8101448,
+    "source": "https://www.pexels.com/photo/8101448/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "Professional reviewing a binder while using a headset",
+    "sha256": "be2477c57877510b91d67b38a8095f62375dd64cc385490b83acf6b2361b4947",
+    "note": "Licensed stock photograph illustrating the work context; not presented as company staff or a client."
+  }
+]
