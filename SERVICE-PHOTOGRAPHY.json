@@ -79,5 +79,14 @@
     "alt": "Professional reviewing a binder while using a headset",
     "sha256": "be2477c57877510b91d67b38a8095f62375dd64cc385490b83acf6b2361b4947",
     "note": "Licensed stock photograph illustrating the work context; not presented as company staff or a client."
+  },
+  {
+    "asset": "/service-photography/loan-intake-administration.webp",
+    "pexelsPhotoId": 7691663,
+    "source": "https://www.pexels.com/photo/7691663/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "Professional reviewing application paperwork at a desk",
+    "sha256": "e343356863c2a219fecffe7b71dc471d846755ad12a571bd7f2b97c9302da17c",
+    "note": "Licensed stock photograph illustrating the service; not company staff."
   }
 ]

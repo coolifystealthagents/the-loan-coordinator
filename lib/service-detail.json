@@ -201,5 +201,34 @@
       }
     ],
     "photoAlt": "Professional reviewing a binder while using a headset"
+  },
+  {
+    "slug": "loan-intake-administration",
+    "title": "Loan intake administration",
+    "benefit": "Keep new inquiries and application checklists ready for the licensed loan team.",
+    "tasks": [
+      "Record inquiry details in the approved CRM",
+      "Check application checklists for missing administrative fields",
+      "Coordinate initial appointments and approved reminders",
+      "Route eligibility, rates, and product questions to licensed staff"
+    ],
+    "deliverables": [
+      "New-inquiry register",
+      "Application completeness checklist",
+      "Loan officer appointment brief"
+    ],
+    "prep": [
+      "Approved intake fields and contact procedure",
+      "Secure application destination",
+      "Licensed contact and appointment rules"
+    ],
+    "example": "A new inquiry includes contact details but no preferred appointment time. Support requests availability using the approved message, records the response, and prepares the inquiry for the loan officer without discussing eligibility.",
+    "faq": [
+      {
+        "question": "Does intake support qualify a borrower?",
+        "answer": "No. Support records supplied information and coordinates the next step. Your licensed team determines eligibility, recommends products, and explains loan terms."
+      }
+    ],
+    "photoAlt": "Professional reviewing application paperwork at a desk"
   }
 ]
